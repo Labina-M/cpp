@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//swapping two numbers using stack
+
 void swapUsingStack(int &a, int &b) {
     stack<int> s;
 
